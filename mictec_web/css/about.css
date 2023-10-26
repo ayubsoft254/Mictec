@@ -1,7 +1,7 @@
 @import url(./colorTheme.css);
 .about__achievements {
     margin-top: 3rem;  
-    color: #6c63ff;  
+    color: var(--color-white);  
 }
 
 .about__achievements-container {
@@ -35,7 +35,7 @@
 }
 
 .achievement__icon {
-    background: var(--color-danger);
+    background: var(--thunderbird);
     padding: 0.6rem;
     border-radius: 1rem;
     display: inline-block;
