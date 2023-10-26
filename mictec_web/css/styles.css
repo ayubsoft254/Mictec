@@ -20,6 +20,7 @@
     --color-bg: #1f2641;
     --color-bg1: #2e3267;
     --color-bg2: #424890;
+    --thunderbird: rgba(179,23,30,1);
 
     --container-width-lg: 80%;
     --container-width-md: 98%;
@@ -114,6 +115,10 @@ nav {
     z-index: 11;
 }
 
+.logo-image {
+    width: 50%;
+}
+
 .window-scroll {
     background: var(--color-primary);
     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
@@ -137,12 +142,13 @@ nav button {
 }
 
 .nav__menu a {
-    font-size: 0.9rem;
+    font-size: 1em;
+    font-weight: 700;
     transition: var(--transition);
 }
 
 .nav__menu a:hover {
-    color: var(--color-bg2);
+    color: var(--thunderbird);
 }
 
 /* === HEADER ==== */
