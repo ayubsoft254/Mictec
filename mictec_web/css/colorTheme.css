@@ -1,4 +1,4 @@
-/* :root {
+:root {
     --primary-color: #ffffff;
     --oyster-pink: rgba(238,214,215,1);
 --thunderbird: rgba(179,23,30,1);
@@ -9,11 +9,12 @@
 --fuzzy-wuzzy-brown: rgba(196,84,84,1);
 --fuzzy-wuzzy-brown: rgba(196,84,92,1);
 --tall-poppy: rgba(188,44,52,1);
-} */
+}
 
 :root {
     --color-primary: #6c63ff;
-    --color-success: #00bf8e;
+    --color-success: #08ad84ed;
+    --crail: rgba(188,63,70,1);
     --color-warning: #f75842;
     --color-danger: #f75842;
     --color-danger-variant: rgba(247, 88, 66, 0.4);

@@ -82,7 +82,7 @@ img {
 }
 
 .btn-primary {
-    background: var(--color-danger);
+    background: var(--thunderbird);
     color: var(--color-white);
 }
 
@@ -198,7 +198,7 @@ header {
 }
 
 .category:nth-child(2) .category__icon {
-    background: var(--color-danger);
+    background: var( --crail);
 }
 
 .category:nth-child(3) .category__icon {
@@ -206,7 +206,7 @@ header {
 }
 
 .category:nth-child(4) .category__icon {
-    background: var(--color-warning);
+    background: var( --crail);
 }
 
 .category:nth-child(5) .category__icon {
